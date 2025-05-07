@@ -1,12 +1,33 @@
-- 👋 Hi, I’m @TahsinTanni
-- 👀 I’m exploring my interest till now in fields of coding, designing, web devloping
-- 🌱 I’m currently learning Java, Blender, CSS
-- 💞️ I’m looking o collaborate on ....yet to find out!
-- 📫 How to reach me #tahsintanni009@gmail.com#
-- 😄 Pronouns: Her
-- ⚡ Fun fact: I Know!!!!
+# 👩‍💻 Welcome to Tahsin Tanni's GitHub Profile
 
-<!---
-TahsinTanni/TahsinTanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm **Tahsin Tanni**, a **Computer Science and Engineering (CSE)** student at **BRAC University**, Bangladesh. With a passion for **machine learning**, **data science, AI,** and **computer architecture**, I explore the intersection of software and hardware through my academic and personal projects. I aim to contribute to **innovative solutions** in industries ranging from entertainment analytics to autonomous navigation.
+
+I am always keen on discovering new technologies and applying them to real-world challenges, be it in **control systems**, **AI**, or **data-driven decision making**.
+
+---
+
+---
+
+## 🛠 Skills & Technologies
+
+* **Programming Languages**: Python, C, HTML, SQL, Assembly, JavaScript, Verilog etc
+
+* **Machine Learning & AI**: Scikit-learn, TensorFlow, Neural Networks, Classification Algorithms
+
+* **Embedded Systems**: STM32, Arduino, Microcontrollers
+
+* **Data Science**: Pandas, Numpy, Matplotlib, Seaborn, Jupyter Notebooks
+
+---
+
+## 📫 How to Connect
+
+* **LinkedIn**: [Tahsin Tanni](#)
+* **Email**: [tahsintanni009@gmail.com](mailto:tahsintanni009@gmail.com)
+
+---
+
+## 🔧 I’m Always Open to Collaborating On
+
+* **AI & Machine Learning** projects, particularly in **predictive analytics** and **classification**.
+* **Data Science** projects focused on **data analysis**
