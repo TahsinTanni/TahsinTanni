@@ -22,9 +22,10 @@ I am always keen on discovering new technologies and applying them to real-world
 
 ## 📫 How to Connect
 
-* **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahsin_Tanni-blue)](https://bd.linkedin.com/in/tahsin-tanni-120156215)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tahsin_Tanni-blue)](https://bd.linkedin.com/in/tahsin-tanni-120156215)
 
-* **Email**: [tahsintanni009@gmail.com](mailto:tahsintanni009@gmail.com)
+[![Email](https://img.shields.io/badge/Email-tahsintanni009@gmail.com-red?style=flat-square&logo=gmail)](mailto:tahsintanni009@gmail.com)
+
 
 ---
 
