@@ -22,7 +22,7 @@ I am always keen on discovering new technologies and applying them to real-world
 
 ## 📫 How to Connect
 
-* **LinkedIn**: [Tahsin Tanni](#)
+* **LinkedIn**: [https://www.linkedin.com/in/tahsin-tanni-120156215?](#)
 * **Email**: [tahsintanni009@gmail.com](mailto:tahsintanni009@gmail.com)
 
 ---
