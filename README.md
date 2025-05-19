@@ -1,6 +1,6 @@
 # 👩‍💻 Welcome to Tahsin Tanni's GitHub Profile
 
-Hello! I'm **Tahsin Tanni**, a **Computer Science and Engineering (CSE)** student at **BRAC University**, Bangladesh. With a passion for **machine learning**, **data science, AI,** and **computer architecture**, I explore the intersection of software and hardware through my academic and personal projects. I aim to contribute to **innovative solutions** in industries ranging from entertainment analytics to autonomous navigation.
+Hello! I'm **Tahsin Tanni**, a **Computer Science and Engineering (CSE)** student at **BRAC University**, Bangladesh. With a passion for **machine learning**, **data science, AI,** and **computer architecture**, I explore the intersection of software and hardware through my academic and personal projects. I aim to contribute to **innovative solutions** in industries.
 
 I am always keen on discovering new technologies and applying them to real-world challenges, be it in **control systems**, **AI**, or **data-driven decision making**.
 
