@@ -1,7 +1,7 @@
-<!-- HEADER: Centered intro banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=👩‍💻+Welcome+to+Tahsin+Tanni's+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+<strong>Tahsin+Tanni</strong>;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9C;CSE+Undergrad+%7C+Tech+Explorer+%7C+ML+%7C+MERN+%7C+Embedded" alt="Typing SVG" />
+</h1>
+
 
 ---
 
