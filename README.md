@@ -73,7 +73,7 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ---
 
-## My GitHub Stats & Skills
+## 📈 GitHub Stats & Skills Level-Up
 
 <p align="center">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -83,20 +83,16 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ---
 
-### Skill XP Bars
+### 🚀 Skills XP Bars
 
-<p>
-  Python &nbsp;  
-  ![Python](https://img.shields.io/badge/80%25-████████░░-brightgreen) &nbsp;&nbsp;  
-  JavaScript &nbsp;  
-  ![JavaScript](https://img.shields.io/badge/70%25-███████░░░-yellow) &nbsp;&nbsp;  
-  MERN Stack &nbsp;  
-  ![MERN](https://img.shields.io/badge/65%25-██████░░░░-blueviolet)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-80%25-brightgreen" alt="Python Skill" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow" alt="JavaScript Skill" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MERN_Stack-65%25-blueviolet" alt="MERN Skill" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Embedded_Systems-60%25-orange" alt="Embedded Skill" />
 </p>
 
 ---
-
-### Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
@@ -104,15 +100,14 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ---
 
-### Current Streak
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-###
+### ✨ Keep Grinding, Level Up Every Day!
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=400&height=40&lines=Keep+Grinding...;Leveling+Up+Every+Day!;Game+On%21)
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=400&height=40&lines=Keep+Grinding...;Leveling+Up+Every+Day!;Game+On%21" alt="Typing SVG" />
+</p>
