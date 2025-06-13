@@ -85,14 +85,11 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ### 🚀 Skills XP Bars
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-80%25-brightgreen" alt="Python Skill" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow" alt="JavaScript Skill" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MERN_Stack-65%25-blueviolet" alt="MERN Skill" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Embedded_Systems-60%25-orange" alt="Embedded Skill" />
-</p>
+### Skills Progress
 
----
+![Python](https://progress-bar.dev/80/?title=Python&suffix=%25)
+![JavaScript](https://progress-bar.dev/70/?title=JavaScript&suffix=%25)
+![MERN Stack](https://progress-bar.dev/65/?title=MERN%20Stack&suffix=%25)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
