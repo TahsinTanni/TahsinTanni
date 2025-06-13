@@ -85,17 +85,19 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 
 
+
 ## 🚀 Skills Progress
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-80%25-brightgreen)
+  <img src="https://img.shields.io/badge/Python-80%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Python Skill" />
   &nbsp;&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-70%25-yellow)
+  <img src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Skill" />
   &nbsp;&nbsp;
-  ![MERN_Stack](https://img.shields.io/badge/MERN_Stack-65%25-blueviolet)
+  <img src="https://img.shields.io/badge/MERN_Stack-65%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
   &nbsp;&nbsp;
-  ![Embedded](https://img.shields.io/badge/Embedded-60%25-orange)
+  <img src="https://img.shields.io/badge/Embedded-60%25-orange?style=for-the-badge" alt="Embedded Skill" />
 </p>
+
 
 
 
