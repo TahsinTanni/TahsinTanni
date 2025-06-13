@@ -77,7 +77,7 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=radical" alt="GitHub Streak" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinTanni&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
