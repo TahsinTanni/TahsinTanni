@@ -9,20 +9,15 @@
 
 ---
 
-## 👋 Hello, I’m **Tahsin Tanni**
+### 👋 Hello, I’m **Tahsin Tanni**
 
-🎓 CSE Undergraduate at **BRAC University**, Bangladesh  
-🔍 Exploring Machine Learning, Data Science, AI & Embedded Systems  
-🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
-🌱 Currently diving into the **MERN Stack** & **data science**
+I am a **Computer Science and Engineering undergraduate at BRAC University**, Bangladesh, with a strong passion for **machine learning**, **web development**, **data science**, **artificial intelligence**, and **embedded systems**. I thrive at the intersection of software and hardware, where I work on developing **data-driven, impactful, and real-world solutions**. 
 
----
+Currently, I am expanding my expertise in the **MERN stack** and deepening my understanding of **data science tools and methodologies**. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
 
-## 💼 About Me
 
-I explore the dynamic intersection of **software & hardware** through academic and personal projects — from **control systems** to **AI/ML predictive models**. My goal? To **innovate and solve problems** that truly matter.
+I explore the dynamic intersection of **software** and **hardware** through both academic and personal projects — ranging from **control systems** to **AI/ML-driven predictive models**. My core goal is to **innovate** and **solve real-world problems** that truly matter.
 
-I love collaborative work, am always learning, and believe in the magic of open source 🌐✨
 
 ---
 
@@ -60,11 +55,16 @@ I love collaborative work, am always learning, and believe in the magic of open 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ---
-
 ## 🚀 I’m Open To Collaborate On:
+
 - 🤖 **AI/ML Projects** — classification, prediction, and deep learning  
 - 📊 **Data Science Projects** — analytics, dashboards, visualizations  
-- 🧠 **Control System / Embedded Applications** — STM32/Arduino-based
+- 🧠 **Control System / Embedded Applications** — STM32, Arduino, or **Raspberry Pi** based  
+- 🌐 **MERN Stack Projects** — full-stack web apps with MongoDB, Express, React, and Node.js  
+- 💻 **Open Source Contributions** — especially in data-driven tools, ML frameworks, or educational tech  
+- 🧪 **Research-focused Projects** — involving AI, system design, or interdisciplinary tech  
+- ⚙️ **Low-level Systems or Architecture** — performance-focused C, Assembly, or Verilog work  
+
 
 ---
 
