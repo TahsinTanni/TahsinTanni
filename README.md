@@ -106,8 +106,9 @@ I explore the dynamic intersection of **software** and **hardware** through both
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.netlify.app/?user=TahsinTanni&theme=radical&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 
 ---
