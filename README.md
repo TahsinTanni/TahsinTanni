@@ -13,7 +13,7 @@
 🎓 CSE Undergraduate at **BRAC University**, Bangladesh  
 🔍 Exploring Machine Learning, Data Science, AI & Embedded Systems  
 🛠️ Passionate about building impactful, data-driven & real-world tech solutions  
-🌱 Currently diving into the **MERN Stack** & **low-level system design**
+🌱 Currently diving into the **MERN Stack** & **data science**
 
 ---
 
