@@ -73,23 +73,18 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinTanni&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinTanni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=algolia&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" />
+<p align="center" style="margin-top: 15px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=algolia&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
 
-## GitHub Contribution
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=dark)
-
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
