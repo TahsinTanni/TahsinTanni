@@ -73,18 +73,46 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ---
 
-## 📈 GitHub Stats & Achievements
+## My GitHub Stats & Skills
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinTanni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinTanni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center" style="margin-top: 15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=algolia&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+---
+
+### Skill XP Bars
+
+<p>
+  Python &nbsp;  
+  ![Python](https://img.shields.io/badge/80%25-████████░░-brightgreen) &nbsp;&nbsp;  
+  JavaScript &nbsp;  
+  ![JavaScript](https://img.shields.io/badge/70%25-███████░░░-yellow) &nbsp;&nbsp;  
+  MERN Stack &nbsp;  
+  ![MERN](https://img.shields.io/badge/65%25-██████░░░░-blueviolet)  
 </p>
 
-<p align="center" style="margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=dark&hide_border=true" alt="GitHub Streak" />
+---
+
+### Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
 </p>
+
+---
+
+### Current Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+###
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=400&height=40&lines=Keep+Grinding...;Leveling+Up+Every+Day!;Game+On%21)
+
