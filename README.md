@@ -84,7 +84,6 @@ I love collaborative work, am always learning, and believe in the magic of open 
 ---
 
 
-## 🚀 Skills Progress
 
 ## 🚀 Skills Progress
 
