@@ -1,6 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+<strong>Tahsin+Tanni</strong>;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9C;CSE+Undergrad+%7C+Tech+Explorer+%7C+ML+%7C+MERN+%7C+Embedded" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Tahsin+Tanni.;CSE+Undergraduate+at+BRAC+University.;Exploring+ML%2C+AI%2C+MERN+Stack+%26+Embedded+Systems." alt="Typing SVG" />
 </h1>
+
+
 
 
 ---
