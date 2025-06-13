@@ -104,10 +104,7 @@ I explore the dynamic intersection of **software** and **hardware** through both
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
+![TahsinTanni's GitHub contributions](https://github.com/TahsinTanni.png?tab=overview&from=2023-01-01&to=2023-12-31)
 
 
 ---
