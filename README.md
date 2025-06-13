@@ -89,3 +89,7 @@ I love collaborative work, am always learning, and believe in the magic of open 
   <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=algolia&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" />
 </p>
 
+## GitHub Contribution
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TahsinTanni&theme=dark)
+
