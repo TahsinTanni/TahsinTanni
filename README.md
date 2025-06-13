@@ -103,9 +103,9 @@ I explore the dynamic intersection of **software** and **hardware** through both
 
 
 ---
-
-![TahsinTanni's GitHub contributions](https://github.com/TahsinTanni.png?tab=overview&from=2023-01-01&to=2023-12-31)
-
+<p align="center">
+  <img src="https://ghchart.rshah.org/FF69B4/TahsinTanni" alt="GitHub chart" />
+</p>
 
 ---
 
