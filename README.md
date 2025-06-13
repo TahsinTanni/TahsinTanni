@@ -109,8 +109,7 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ---
 
-### ✨ Keep Grinding
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=400&height=40&lines=Keep+Grinding...;Leveling+Up+Every+Day!;Game+On%21" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&weight=700&color=000000&width=350&height=30&lines=Keep+Learning.;Stay+Focused.;Build+Smart." alt="Typing SVG" />
 </p>
+
