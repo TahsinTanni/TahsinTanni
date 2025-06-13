@@ -110,6 +110,7 @@ I love collaborative work, am always learning, and believe in the magic of open 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&weight=700&color=000000&width=350&height=30&lines=Keep+Learning.;Stay+Focused.;Build+Smart." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=000000&center=true&width=300&height=30&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
 </p>
+
 
