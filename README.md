@@ -87,13 +87,15 @@ I love collaborative work, am always learning, and believe in the magic of open 
 
 ### Skills Progress
 
-![Python](https://progress-bar.dev/80/?title=Python&suffix=%25)
-![JavaScript](https://progress-bar.dev/70/?title=JavaScript&suffix=%25)
-![MERN Stack](https://progress-bar.dev/65/?title=MERN%20Stack&suffix=%25)
+## 🚀 Skills Progress
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TahsinTanni&theme=radical&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues" alt="GitHub Trophies" />
+  <img src="https://progress-bar.dev/80/?title=Python&color=4CAF50&suffix=%25" alt="Python Skill" />&nbsp;&nbsp;&nbsp;
+  <img src="https://progress-bar.dev/70/?title=JavaScript&color=F7DF1E&suffix=%25" alt="JavaScript Skill" />&nbsp;&nbsp;&nbsp;
+  <img src="https://progress-bar.dev/65/?title=MERN%20Stack&color=6CC24A&suffix=%25" alt="MERN Stack Skill" />&nbsp;&nbsp;&nbsp;
+  <img src="https://progress-bar.dev/60/?title=Embedded&color=FF5722&suffix=%25" alt="Embedded Skill" />
 </p>
+
 
 ---
 
