@@ -69,7 +69,7 @@ I explore the dynamic intersection of **software** and **hardware** through both
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanni-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tahsin-tanni-120156215/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TahsinTanni-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tahsin-tanni-120156215/)  
 📧 Email: tahsintanni009@gmail.com
 
 ---
