@@ -110,9 +110,13 @@ I explore the dynamic intersection of **software** and **hardware** through both
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TahsinTanni&color=blueviolet&style=flat" alt="Profile Views" width="200"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=60&size=28&lines=Keep+Pushing.;Keep+Growing.;Keep+Building." alt="Typing SVG" />
 </p>
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=TahsinTanni&color=blueviolet&style=flat)
+
 
