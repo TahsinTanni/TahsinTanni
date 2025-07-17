@@ -114,4 +114,5 @@ I explore the dynamic intersection of **software** and **hardware** through both
 </p>
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=TahsinTanni&color=blueviolet&style=flat)
 
