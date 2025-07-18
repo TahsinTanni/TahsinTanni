@@ -11,7 +11,7 @@
 
 ### 👋 Hello, I’m **Tahsin Tanni**
 
-I am a **Computer Science and Engineering undergraduate at BRAC University**, Bangladesh, with a strong passion for **machine learning**, **web development**, **data science**, **artificial intelligence**, and **embedded systems**. I thrive at the intersection of software and hardware, where I work on developing **data-driven, impactful, and real-world solutions**. 
+I am an undergraduate **Computer Science and Engineering student at BRAC University**, Bangladesh, with a strong passion for **machine learning**, **web development**, **data science**, **artificial intelligence**, and **embedded systems**. I thrive at the intersection of software and hardware, where I work on developing **data-driven, impactful, and real-world solutions**. 
 
 Currently, I am expanding my expertise in the **MERN stack** and deepening my understanding of **data science tools and methodologies**. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
 
