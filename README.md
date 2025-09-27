@@ -11,9 +11,9 @@
 
 ### Hello, I’m **Tahsin Tanni**
 
-I am an undergraduate **Computer Science and Engineering student at BRAC University**, Bangladesh, with a strong passion for **machine learning**, **web development**, **data science**, **artificial intelligence**, and **embedded systems**. I thrive at the intersection of software and hardware, where I work on developing **data-driven, impactful, and real-world solutions**. 
+I am an undergraduate **Computer Science and Engineering student at BRAC University**, Bangladesh, with a strong passion for **machine learning**, **web development**, **data science**, **artificial intelligence**,**blockchain** and **embedded systems**. I thrive at the intersection of software and hardware, where I work on developing **data-driven, impactful, and real-world solutions**. 
 
-Currently, I am expanding my expertise in the **MERN stack** and deepening my understanding of **data science tools and methodologies**. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
+Currently, I am expanding my expertise in the **MERN stack** and deepening my understanding of **data science tools and methodologies**. Also I have interest in **cybersecurity** and **blockchain**. I’m always eager to explore new technologies and take on meaningful challenges that drive innovation.
 
 
 I explore the dynamic intersection of **software** and **hardware** through both academic and personal projects — ranging from **control systems** to **AI/ML-driven predictive models**. My core goal is to **innovate** and **solve real-world problems** that truly matter.
@@ -31,6 +31,8 @@ I explore the dynamic intersection of **software** and **hardware** through both
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-7D4698?style=flat-square&logo=verilog&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=flat-square)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+
 
 ### AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -54,6 +56,13 @@ I explore the dynamic intersection of **software** and **hardware** through both
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
+### Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-121D33?style=flat-square)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-0C1C2B?style=flat-square)
+
 ---
 ##  I’m Open To Collaborate On:
 
@@ -63,7 +72,8 @@ I explore the dynamic intersection of **software** and **hardware** through both
 -  **MERN Stack Projects** — full-stack web apps with MongoDB, Express, React, and Node.js  
 -  **Open Source Contributions** — especially in data-driven tools, ML frameworks, or educational tech  
 -  **Research-focused Projects** — involving AI, system design, or interdisciplinary tech  
--  **Low-level Systems or Architecture** — performance-focused C, Assembly, or Verilog work  
+-  **Low-level Systems or Architecture** — performance-focused C, Assembly, or Verilog work
+-  **Blockchain & Web3 Projects** — smart contracts in **Solidity**, Ethereum DApps, or crypto-focused systems 
 
 
 ---
@@ -97,7 +107,10 @@ I explore the dynamic intersection of **software** and **hardware** through both
   <img src="https://img.shields.io/badge/MERN_Stack-65%25-blueviolet?style=for-the-badge" alt="MERN Stack Skill" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Embedded-60%25-orange?style=for-the-badge" alt="Embedded Skill" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Blockchain_(Solidity/Web3)-55%25-364FC7?style=for-the-badge&logo=solidity&logoColor=white" alt="Blockchain Skill" />
 </p>
+
 
 
 
