@@ -112,6 +112,7 @@ I explore the dynamic intersection of **software** and **hardware** through both
 </p>
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TahsinTanni&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
