@@ -112,7 +112,8 @@ I explore the dynamic intersection of **software** and **hardware** through both
 </p>
 
 
-[![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TahsinTanni&bg_color=0d1117&color=ffc0cb&line=ff99aa&point=ffb6c1&area=true&hide_border=true&custom_point=🚗)](https://github.com/TahsinTanni/github-readme-activity-graph)
+[![Tahsin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TahsinTanni&bg_color=0d1117&color=ffc0cb&line=ff99aa&point=ffb6c1&area=true&hide_border=true)](https://github.com/TahsinTanni/github-readme-activity-graph)
+
 
 
 
