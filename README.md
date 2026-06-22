@@ -11,8 +11,6 @@
 
 ### I am a Computer Science and Engineering graduate from BRAC University with experience spanning AI automation, machine learning research, and full-stack web development. I enjoy building intelligent systems and transforming complex ideas into practical, user-focused solutions.
 
-### Currently, I work as an AI Automation Trainee at 180 RE, where I design LLM-powered workflows using n8n and third-party integrations. Alongside industry work, I have conducted research on improving the robustness of large language models against weight noise and quantization attacks.
-
 ### My interests lie in artificial intelligence, machine learning, agentic systems, full-stack development, blockchain, and building impactful technologies that solve real-world problems
 
 ---
