@@ -77,6 +77,11 @@
 📧 Email: tahsintanni009@gmail.com
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TahsinTanni/TahsinTanni/output/cyclist-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TahsinTanni/TahsinTanni/output/cyclist-light.svg" />
+  <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/TahsinTanni/TahsinTanni/output/cyclist-light.svg" />
+</picture>
 
 ##  GitHub Stats & Skills Level-Up
 
