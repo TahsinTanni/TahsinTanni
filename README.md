@@ -83,18 +83,6 @@
   <img alt="Contribution graph snake animation" src="https://raw.githubusercontent.com/TahsinTanni/TahsinTanni/output/cyclist-light.svg" />
 </picture>
 
-##  GitHub Stats & Skills Level-Up
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=TahsinTanni&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahsinTanni&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-
-
 
 ##  Skills Progress
 
