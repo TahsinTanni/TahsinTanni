@@ -5,6 +5,9 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -13,9 +16,10 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: TahsinTanni
           outputs: |
-            dist/cyclist-dark.svg?palette=github-dark&snake=cyclist
+            dist/cyclist-dark.svg?palette=github-dark
+            dist/cyclist-light.svg?palette=github
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
