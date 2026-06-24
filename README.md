@@ -119,9 +119,6 @@
 
 
 ---
-<p align="center">
-  <img src="https://ghchart.rshah.org/FF69B4/TahsinTanni" alt="GitHub chart" />
-</p>
 
 ---
 
